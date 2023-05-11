@@ -416,7 +416,6 @@ Subscription object.
         ``` screen
         $ oc describe packagemanifests jws-operator -n openshift-marketplace
         ```
-    :::
 
 2.  Check the actual list of Operator groups:
 
